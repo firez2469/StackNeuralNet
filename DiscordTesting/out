@@ -1,0 +1,397 @@
+asdfjklsemicolon|"idk yet"|minecraft
+asdfjklsemicolon|"either default or zoomed out by 1"|minecraft
+asdfjklsemicolon|"deciding right now"|minecraft
+FlexSealed1711|"zoomed out by 1 would allow more area but would cost 8 paper per map which adds up (you can borrow my sugar cane if you need)"|minecraft
+asdfjklsemicolon|"should I mark POI's with banners or nah"|minecraft
+asdfjklsemicolon|"the labels are hard to see under the glass"|minecraft
+asdfjklsemicolon|"anyone want to play"|minecraft
+asdfjklsemicolon|"?"|minecraft
+spicyJackson|"i can"|minecraft
+spicyJackson|"im going to sit in the VC"|minecraft
+FlexSealed1711|"my ping is so bad i can see my past self"|minecraft
+TitaniumWalls605|"and also bad enough to screenshot it"|minecraft
+TitaniumWalls605|"my internet is like that 24-7"|minecraft
+asdfjklsemicolon|"anyone want to play tn?"|minecraft
+FlexSealed1711|"i am starting a history project due tomorrow"|minecraft
+asdfjklsemicolon|"imagine doing work. Cringe"|minecraft
+FlexSealed1711|"imagine having exams"|minecraft
+asdfjklsemicolon|"tbh I probably did that project at some point if you want to aggressively borrow elements"|minecraft
+FlexSealed1711|"it was the africa project"|minecraft
+asdfjklsemicolon|"hmmm.... I don't recall"|minecraft
+asdfjklsemicolon|"probably got deleted with the LCA email purge anyway"|minecraft
+FlexSealed1711|"this is yr #4 of him doing it so right after your time"|minecraft
+asdfjklsemicolon|"tell him to be less creative next time"|minecraft
+asdfjklsemicolon|"makes things hard"|minecraft
+FlexSealed1711|"one group member is too busy modding a discord server for a twitch streamer to have done any work"|minecraft
+Ancient Oak Tree|"Btw, for the map room in the tower, the "unknown base" in the south east, just east of new spawn is Chicken's."|minecraft
+Ancient Oak Tree|"This sign is 180 degrees off"|minecraft
+asdfjklsemicolon|"eventually you'll go around all the way around the world and make it there"|minecraft
+Ancient Oak Tree|"Yeah, except the world border is in the way."|minecraft
+Ancient Oak Tree|"I was testing out the new concrete refinery near the capital, and I have a few issues. The first is that it takes approximately 5 minutest per stack, and the second is that it only returns 50% of the concrete (which isn't a big deal, considering we have infinite concrete, but it bumps the output up to 1 stack every 10 minutes). It definitely has some potential, but currently it is inefficient. I like the initiative to build a concrete refinery with public access near the capital, but I think it could use some improvement."|minecraft
+FlexSealed1711|"Lemme take a look at it. I made a lossless one but i dont trust other ppl with it. I might be able to implement some of my design concepts"|minecraft
+FlexSealed1711|"Mine can do a stack in 24 seconds"|minecraft
+ExoticLegos|"hot damn, *nice*"|minecraft
+FlexSealed1711|"where is it? and i guess ive made the very bold assumption that it is tnt-based and also the bolder assumption that the TNT timings are anything like Ilmango's"|minecraft
+firez2469|"I can work on it a bit, I have some ideas on speeding things up, and it should be pretty easy to fix the loss issue"|minecraft
+firez2469|"I can prob speed it up to a stack every 30ish seconds"|minecraft
+firez2469|"Also I didnt really follow any tutorials for this lol. I just timed it off of how long it would take for the tnt to explode"|minecraft
+FlexSealed1711|"my ping is too bad to join the server so ive been screwing around with slot machine designs"|minecraft
+FlexSealed1711|"basically if you insert an item into the chest, it will only be sorted out if it is a diamond, otherwise it will stay put. if it is a diamond, it goes through a hopper chain to the prize chest. this causes a redstone signal in the sorter to also power a dropper which sends one of the few items in it (this is the RNG part) into a sorter. it ends up in the same place no matter what item it is (back into the RNG dropper) but the diamond will go through the sorter and send a redstone signal to an observer which creates a double pulse dropping 2 diamonds!"|minecraft
+FlexSealed1711|"it needs work since it is not compact at all"|minecraft
+FlexSealed1711|"and also modifications would allow for more complex odds"|minecraft
+FlexSealed1711|""|minecraft
+Ancient Oak Tree|"I already have some designs for some casino games"|minecraft
+Ancient Oak Tree|"I was going to make a casino, but I probably won't until after my current projects."|minecraft
+FlexSealed1711|"I am just screwing around this has nothing to do with survival"|minecraft
+FlexSealed1711|"yeah it uses totally different mechanics to mine, so i have 0 recommendations about how to improve it"|minecraft
+FlexSealed1711|"i could try opening up mine to the public"|minecraft
+FlexSealed1711|"but it would be used at the risk of a 16 diamond fine for breaking it and strict instructions to follow to the letter"|minecraft
+FlexSealed1711|"**The following are important instructions to follow for use of my concrete refinery***any user automatically agrees to pay a 16 diamond fine and reimburse any lost materials if any damage is caused during use, and this includes any damage caused by leaving it on and unloading the chunks*"|minecraft
+FlexSealed1711|"STEP 1: go to the closest portal that is not the main one on the mushroom island mini-hub"|minecraft
+FlexSealed1711|"use of the ice-trapdoor path is recommended for maximum efficiency"|minecraft
+FlexSealed1711|"STEP 2: as the sign says, make sure the cobblestone modules are disconnected and the refinery section (the different one) is connected to the main activation system"|minecraft
+FlexSealed1711|"if switching modes, leave the redstone dust on the AFK platform and **clear out all stone sticking out of the cobble modules so they are flat**"|minecraft
+FlexSealed1711|"load the desired materials into the chest (one color at a time is recommended)"|minecraft
+FlexSealed1711|"simply pull the lever into the ON position to start the machine. BE WARNED: DO NOT LEAVE A VERY SMALL (not even to the other side of the island) RADIUS DURING OPERATION"|minecraft
+FlexSealed1711|"Stand on the afk platform, (it looks like this) so that you can reach the glass on the other side. leave one hotbar slot open and use a 4 cps autoclicker for best results (**DO NOT USE F3+T AS IT WILL CRASH THE GAME, EVEN ON A GOOD DEVICE**) this will break it"|minecraft
+FlexSealed1711|"when the dispensers run out of concrete to drop, turn OFF the system and proceed to the chest array to find your stuff. ALWAYS TURN OFF THE POWER FIRST (so you dont have to worry about flying too far away to land on the platform again)"|minecraft
+FlexSealed1711|"one more thing: the AFK platform is intentionally under a ceiling but please watch out for phantoms while AFK"|minecraft
+Ancient Oak Tree|"I think I'll just use the water at cactus farm by the community chest to convert my concrete. It's so much simpler and it's efficient enough."|minecraft
+FlexSealed1711|"its not though and you can only afk a stack at a time"|minecraft
+FlexSealed1711|"this can do a shulker in a short enough time where you dont even have to go afk and do something else"|minecraft
+FlexSealed1711|"and it isnt dependent on pickaxe durability"|minecraft
+Ancient Oak Tree|"I don't afk holding down right and left click. I just wait a bit. And pickaxe durability isn't a concern for me, considering I have a netherite pickaxe with unbreaking and mending."|minecraft
+Ancient Oak Tree|"It's not worth it for me to do a whole shulker box either, because I don't need that much."|minecraft
+asdfjklsemicolon|"...did somebody say End Rods?"|minecraft
+asdfjklsemicolon|"the magic of industry"|minecraft
+FlexSealed1711|"60,000,000?"|minecraft
+TitaniumWalls605|"that's a long song"|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"<@!497150435774431232> there should be a decent amount of refined concrete now"|minecraft
+Ancient Oak Tree|"oh, nice"|minecraft
+Ancient Oak Tree|"I don't see any refined white concrete, so I'll refine a shulker box by hand."|minecraft
+FlexSealed1711|"It was all taken"|minecraft
+FlexSealed1711|"I can only do so much which is why i added detailed fool-resistant instructions so other ppl dont have to rely on me"|minecraft
+Ancient Oak Tree|"I think this is stuck here from a few days ago"|minecraft
+Ancient Oak Tree|"I don't know how"|minecraft
+ExoticLegos|"funny"|minecraft
+FlexSealed1711|"arrows and tridents dont despawn from bamboo"|minecraft
+FlexSealed1711|"i still have one from the first few days of me playing"|minecraft
+Ancient Oak Tree|"oh, lol"|minecraft
+Ancient Oak Tree|"one of these things is not like the others"|minecraft
+FlexSealed1711|"hmmmmm"|minecraft
+FlexSealed1711|"thats like gravel and cobblestone"|minecraft
+TitaniumWalls605|"hmmm"|minecraft
+FlexSealed1711|"You don’t farm on grass path?"|minecraft
+asdfjklsemicolon|"welp I died..."|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"pirate speak makes it 20 times better lmao"|minecraft
+Ancient Oak Tree|"It seems I've been chickened."|minecraft
+asdfjklsemicolon|"Interesting"|minecraft
+asdfjklsemicolon|"Who is building with spruce fence?"|minecraft
+Ancient Oak Tree|"I don't know, but I know that the city might start to get a pigeon infestation."|minecraft
+asdfjklsemicolon|"I just made a portal that links to 2 overworld poratls"|minecraft
+asdfjklsemicolon|"The left block links to the station, and the right block goes to One Railroad"|minecraft
+asdfjklsemicolon|"gonna fix it, but I thought it was interesting"|minecraft
+Ancient Oak Tree|"Cool"|minecraft
+FlexSealed1711|"portals are weird"|minecraft
+ExoticLegos|"fucking cool"|minecraft
+FlexSealed1711|"<@!256130208220839955> join "new badwars" link is in <#805579043968647219>"|minecraft
+FlexSealed1711|"NO!!! F\*CK THE NEW NETHER MUSIC! F\*CK PIGSTEP! LENA RAINE BAD C418 GOOD!!!"|minecraft
+FlexSealed1711|"this also neglects giving credit to c418, by whom most of the music still is (see volume alpha (survival soundtracks), volume beta (title, nether, and creative), and underwater)"|minecraft
+FlexSealed1711|"not to mention the real discs"|minecraft
+ExoticLegos|"<@!628722700772180019> lena raine is awesome and ill fight you on that"|minecraft
+Ancient Oak Tree|"There is also a splash text that says "Music by C418""|minecraft
+FlexSealed1711|"Alright then."|minecraft
+FlexSealed1711|"The new nether music shoots for a totally different theme than the old music and i disagree with that decision tbh"|minecraft
+ExoticLegos|"ok you might not like the vibe but the A) music still slaps andB) have you played celeste that ost is so amazing"|minecraft
+FlexSealed1711|"64 chunk render is broken af"|minecraft
+FlexSealed1711|"> B) have you played celeste that ost is so amazingi never said anything about other games. i was keeping this to minecraft"|minecraft
+ExoticLegos|""lena raine bad" is not limiting to only minecraft, it implies all of lena raines work"|minecraft
+ExoticLegos|"which i get in context wasnt the point but tbh id still fight over pigstep alone"|minecraft
+FlexSealed1711|"i was comparing the 2 minecraft composers so i thought that minecraft was implied"|minecraft
+FlexSealed1711|"and pigstep is not only totally different from the others, but it also doesn't even sound good imo"|minecraft
+ExoticLegos|"a) youre entitled to your opinion but i KiLl YoUb) is there a way to change the music back to the old stuff? maybe a data pack or something idk ive only worked with plugins"|minecraft
+FlexSealed1711|"it still plays the old soundtracks sometimes which is the stupid part - they shoot for a totally different vibe."|minecraft
+FlexSealed1711|"so when a new soundtrack comes on im tempted to relog to play the RNG again"|minecraft
+ExoticLegos|"lol"|minecraft
+FlexSealed1711|"Anyway i finished a system that makes the zombification of villagers easier (singleplayer)"|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"the in button sadly has to be on the floor otherwise it triggers the rail switcher on the other side, which causes problems"|minecraft
+FlexSealed1711|"zombification aside, this is the lowest ive ever seen a 5 enchantment"|minecraft
+FlexSealed1711|"ive gotten power 5 for 19 before"|minecraft
+firez2469|"Yo <@&771187968869138442>. If yall like building, and yall northeastern. Some guys from the '25 discord created a creative building world. Seeems kinda cool! Here's the invite if yall wanna check it out"|minecraft
+firez2469|"https://discord.gg/ECuaTbX5"|minecraft
+FlexSealed1711|"hmmmm"|minecraft
+FlexSealed1711|"||I put all the end dimension assets in the nether dimension folder and went thru the "exit portal" in the "nether" which leads to the end since minecraft:end_portal takes you to the end unless you are in the end, in which case it takes you to your set spawn point||"|minecraft
+spicyJackson|"Can you resend that invite?"|minecraft
+firez2469|"ok, here ya go: https://discord.gg/HNvhGgED"|minecraft
+firez2469|"Yo dang MC 1.17 is out"|minecraft
+asdfjklsemicolon|"Lmao RIP"|minecraft
+asdfjklsemicolon|"Just started a 1.16 singleplayer world"|minecraft
+asdfjklsemicolon|"Tbh I probably won't update until the actual caves and cliffs this winter"|minecraft
+FlexSealed1711|"Caves and Cliffs\*`*no actual caves and cliffs`"|minecraft
+FlexSealed1711|"reminds me of the fact that Allstate has to say "not available in every state" in small print"|minecraft
+asdfjklsemicolon|"Introducing the [null] update!"|minecraft
+Gerginator|"There appears to be an odd glitch involving water and explosions"|minecraft
+Gerginator|"In bedrock at least"|minecraft
+Gerginator|"Idk about Java"|minecraft
+asdfjklsemicolon|"Lmao bugrock"|minecraft
+asdfjklsemicolon|"Idk if it's in java tho"|minecraft
+asdfjklsemicolon|"Haven't tried the new version"|minecraft
+FlexSealed1711|"lighting an island in the most efficient way possible (2 overlapping grids of torches with 11 air blocks between them)"|minecraft
+FlexSealed1711|"everywhere the farthest from a torch is light level 8"|minecraft
+FlexSealed1711|"time to put in the villagers. why do things the easy way when you could do them the stupid way?"|minecraft
+FlexSealed1711|"after i figured out they were all binding to the wrong beds, i was finally able to make all 12 sleep"|minecraft
+FlexSealed1711|"so basically the guy was not wrong when he said "4500 per hour""|minecraft
+FlexSealed1711|"idk the exact number but they spawn in very soon after the previous one"|minecraft
+FlexSealed1711|"item name...?"|minecraft
+spicyJackson|"lit"|minecraft
+spicyJackson|"pog"|minecraft
+spicyJackson|"im back baby"|minecraft
+spicyJackson|"its been a while"|minecraft
+FlexSealed1711|"This server has been dead"|minecraft
+spicyJackson|"I can tell"|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"i did not realize they did this"|minecraft
+ExoticLegos|"thats neat"|minecraft
+FlexSealed1711|"perimeter rabbit farm"|minecraft
+FlexSealed1711|"just make a small spawning platform with a bunch of cats and a hopper minecart underneath"|minecraft
+FlexSealed1711|"once i came up with that idea..."|minecraft
+FlexSealed1711|"i just had to test it (creative)"|minecraft
+FlexSealed1711|"i have only finished the perimeter so far but thats half the satisfaction tbh"|minecraft
+FlexSealed1711|"it was cool to see the way the sand above the /fill dimensions fell down"|minecraft
+FlexSealed1711|"probably big enough?"|minecraft
+FlexSealed1711|"by literal dumb luck its a block-perfect square"|minecraft
+FlexSealed1711|"240x240"|minecraft
+FlexSealed1711|"https://www.youtube.com/watch?v=gv5CorPnKxc"|minecraft
+FlexSealed1711|"this new mob cap system will no longer require an empty server to afk mob farms"|minecraft
+FlexSealed1711|"and the more ppl afk-ing, the higher the rates"|minecraft
+ExoticLegos|"noice"|minecraft
+FlexSealed1711|"and the way spawning works we no longer have to build an ender ender at min height, making item disposal easier"|minecraft
+FlexSealed1711|""this perimeter will be carbon-neutral" -ilmango"|minecraft
+ExoticLegos|"lmao"|minecraft
+FlexSealed1711|"*"technically you could put a fucking motor cycle on a sandwich, but that doesn't make it edible"*-one of the scicraft people"|minecraft
+spicyJackson|"im backkkk"|minecraft
+spicyJackson|"i can migrate my account now and get the FREE cape!!!!!!"|minecraft
+spicyJackson|"<@&771187968869138442>"|minecraft
+firez2469|"fre cape?"|minecraft
+spicyJackson|"yeah"|minecraft
+spicyJackson|"once you migrate your account"|minecraft
+spicyJackson|"only very few accounts can migrate rn, i guess because mine is really old i am one of the first"|minecraft
+SuboticMars|"what do you have to do?"|minecraft
+FlexSealed1711|"migrating is stupid tbh"|minecraft
+asdfjklsemicolon|"so I needed some blue dye for cyan glass..."|minecraft
+asdfjklsemicolon|"I built this ghetto farm first"|minecraft
+asdfjklsemicolon|"but the problem was, the grass block the dispenser bonemealed was the same one the water fell on, which made it turn to dirt eventually"|minecraft
+asdfjklsemicolon|"so I decided to make a better blue dye farm"|minecraft
+asdfjklsemicolon|""|minecraft
+asdfjklsemicolon|"this one uses 3 staggered dispensers and one water flow"|minecraft
+asdfjklsemicolon|"idk rates yet, but it seems to be at least 4x the old one"|minecraft
+asdfjklsemicolon|"best part is, it's tileable in both directions"|minecraft
+asdfjklsemicolon|"so I could make it bigger really easily"|minecraft
+FlexSealed1711|"so ive been doing 1.6 singleplayer..."|minecraft
+FlexSealed1711|"simple yet effective auto-breeder concept for old villagers"|minecraft
+FlexSealed1711|"the center of the "village" is the one between all the doors. The doors trigger the other 2 in the lower 1x1 to breed since they are within 32 blocks and need to reach the village population/door cap. they are more than 5 blocks below the center of the village, so the game will not check that area for population, so they will keep breeding indefinitely. the children get pushed down a set of shafts into a water stream, where they will be stuck until they are adults and can swim up. the adults will go into a holding cell until they get removed by minecart for trading. there is no entity cramming in 1.6.1."|minecraft
+FlexSealed1711|"while they are still children, they are too short to swim up the "adult filter" shaft."|minecraft
+FlexSealed1711|"this minecart system, which is not connected to anything since this is creative mode, automatically dispenses one villager to load each minecart out the other side. since the old boat mechanic still exists in 1.6, minecart is the only controlled way of moving villagers around."|minecraft
+Ancient Oak Tree|"Cool!"|minecraft
+spicyJackson|"GOT MY CAPE!!!!!!!"|minecraft
+spicyJackson|""|minecraft
+Ancient Oak Tree|"Nice!"|minecraft
+asdfjklsemicolon|"yooo me too"|minecraft
+spicyJackson|"When’s the server coming back"|minecraft
+FlexSealed1711|"As soon as there are more active ppl and we decide what to do"|minecraft
+asdfjklsemicolon|"Soon"|minecraft
+firez2469|"soon"|minecraft
+firez2469|"yo wouldn't it be interesting maybe to do a sort of hardcore mode event at some point? (we don't have to tho, just throwing the idea out there)"|minecraft
+TitaniumWalls605|"Hmm interesting..."|minecraft
+asdfjklsemicolon|"that might be fun"|minecraft
+FlexSealed1711|"Like the regular server (no theft/pvp) but last man standing?"|minecraft
+asdfjklsemicolon|"possibly"|minecraft
+asdfjklsemicolon|"I think an smp would be easier to engage with tho"|minecraft
+firez2469|"when do we plan to start this up again then?"|minecraft
+asdfjklsemicolon|"Probably sometime this week"|minecraft
+asdfjklsemicolon|"We should do a meeting over vc to discuss ideas/pick a seed soon"|minecraft
+Ancient Oak Tree|"I think I’ll try to redo my base from last time as a proper castle if we do another SMP"|minecraft
+Ancient Oak Tree|"But I’m definitely down to start playing again"|minecraft
+asdfjklsemicolon|"I'm gonna do a totally different theme"|minecraft
+asdfjklsemicolon|"idk what yet"|minecraft
+asdfjklsemicolon|"I do futuristic on all my singleplayer worlds, so not that"|minecraft
+Ancient Oak Tree|"What will we do when the next update comes out?"|minecraft
+asdfjklsemicolon|"probably restart but idk"|minecraft
+asdfjklsemicolon|"maybe just keep playing on 1.17"|minecraft
+asdfjklsemicolon|"that won't be until the end of the semester anyway"|minecraft
+asdfjklsemicolon|"but we'll decide when the time comes"|minecraft
+FlexSealed1711|"<:NeverUpdate:595214686757191721>"|minecraft
+asdfjklsemicolon|"<@&771187968869138442> We should all do a vc to decide on a seed asap. Does tomorrow evening work for y'all?"|minecraft
+asdfjklsemicolon|"also put any seeds you like in here"|minecraft
+Ancient Oak Tree|"Seeds"|minecraft
+firez2469|"yes tomorrow works"|minecraft
+firez2469|"what version are we playing on?"|minecraft
+asdfjklsemicolon|"probably latest"|minecraft
+asdfjklsemicolon|"unless anyone has any objections"|minecraft
+firez2469|"sounds gud"|minecraft
+FlexSealed1711|"why wait till tomorrow to discuss seed. tbh it doesnt really matter and a live chat about it is hard to schedule/attend"|minecraft
+asdfjklsemicolon|"It's better to have a full discussion"|minecraft
+asdfjklsemicolon|"Also, do y'all want to start the server as soon as we pick the seed, or like next Friday so we can start on a weekend?"|minecraft
+FlexSealed1711|"if we're gonna wait till after this weekend, then preferably next weekend"|minecraft
+firez2469|"Id say at the start of this weekend"|minecraft
+Ancient Oak Tree|"I'm down for whenever, but preferably a weekend"|minecraft
+Ancient Oak Tree|"What time are we meeting to discuss seeds?"|minecraft
+asdfjklsemicolon|"idk maybe like 8?"|minecraft
+Ancient Oak Tree|"I'm good with 8"|minecraft
+FlexSealed1711|"im working at 8 so id have to do 9 or something"|minecraft
+FlexSealed1711|"https://www.reddit.com/r/Minecraft/comments/piwkll/good_old_textures_texture_pack_details_in_comment/?utm_medium=android_app&utm_source=share somebody made an OG ores texture pack. im gonna main it since i hate the new ores"|minecraft
+Ancient Oak Tree|"Is everyone good with 9:00?"|minecraft
+asdfjklsemicolon|"Based"|minecraft
+firez2469|"bet"|minecraft
+Ancient Oak Tree|"<@&771187968869138442> If you want to discuss seeds, now is the time! Join vc!"|minecraft
+Ancient Oak Tree|"<@!571824857390645268>"|minecraft
+asdfjklsemicolon|"10101 is a large plains island (big enough for a decent capital city) surrounded by ocean and a nearby jungle biome, and it also has ice near spawn for early infrastructure. -8009013022 is a mushroom island spawn (again, big enough for a capital) with an ocean that's narrow in the x-direction but long in the z-direction connecting a bunch of interesting biomes."|minecraft
+Ancient Oak Tree|""|minecraft
+Ancient Oak Tree|"You can look at the seeds in game or through chunkbase (links in <#884178867533799434>)."|minecraft
+FlexSealed1711|"im down for 10101 now"|minecraft
+FlexSealed1711|"modified jungle edge within 1k blocks of spawn"|minecraft
+FlexSealed1711|"from there you can also see a jungle temple with water on all 4 sides"|minecraft
+Ancient Oak Tree|"My main concern is the ocean around spawn. I think 10101 wouldn't be as good at the start or for people who join midway. -800... has a large enough spawn ocean."|minecraft
+asdfjklsemicolon|"Perhaps"|minecraft
+Ancient Oak Tree|"I think we can safely call this election"|minecraft
+asdfjklsemicolon|"<@&771187968869138442> It has been decided that the seed will be 10101. The server will begin tomorrow afternoon, and I would like to get as many people to join at the very begining as possible. I'm thinking we start it around 5:00, but lmk if you aren't available to play then and we can change it."|minecraft
+TitaniumWalls605|"I probably won't be available until 9 pm"|minecraft
+Ancient Oak Tree|"5:00 is when my class will end"|minecraft
+firez2469|"bet 5"|minecraft
+FlexSealed1711|"6 would be better for me. I have after school sportsball till 5:30"|minecraft
+firez2469|"5:30 works equally well"|minecraft
+asdfjklsemicolon|"I think we're gonna do 6"|minecraft
+asdfjklsemicolon|"Server will go live around that time"|minecraft
+TitaniumWalls605|"Ok"|minecraft
+TitaniumWalls605|"I trust that you guys won't speedrun before I get a chance to join"|minecraft
+ExoticLegos|"~~do it~~"|minecraft
+asdfjklsemicolon|"elytra by 9pm"|minecraft
+asdfjklsemicolon|"challenge accepted"|minecraft
+ExoticLegos|"taking a whole 3 hours?"|minecraft
+asdfjklsemicolon|"nice relaxing pace ya know"|minecraft
+ExoticLegos|"fair fair"|minecraft
+TitaniumWalls605|"https://c.tenor.com/668wMP4UsSkAAAAM/dont-try-it-obi-wan-kenobi.gif"|minecraft
+asdfjklsemicolon|"*tries it*"|minecraft
+asdfjklsemicolon|"<@&771187968869138442> The server is live!"|minecraft
+FlexSealed1711|"based"|minecraft
+Ancient Oak Tree|"Yay!"|minecraft
+FlexSealed1711|"it wants to migrate me"|minecraft
+TitaniumWalls605|"You have been chosen"|minecraft
+firez2469|"crap I wasn't paying attention lol"|minecraft
+firez2469|"bet"|minecraft
+asdfjklsemicolon|"*Native americans in the 1800s:* "The government wants to migrate me!"|minecraft
+asdfjklsemicolon|"stupid migration"|minecraft
+Ancient Oak Tree|"First one!"|minecraft
+FlexSealed1711|"sounds like work"|minecraft
+FlexSealed1711|"too manual"|minecraft
+FlexSealed1711|"i think i know where im gonna settle"|minecraft
+TitaniumWalls605|"ok imma join now"|minecraft
+firez2469|"I'm on rn as well"|minecraft
+TitaniumWalls605|"btw i changed my name because TitaniumWalls605 is all of a sudden too long"|minecraft
+FlexSealed1711|"What is it now"|minecraft
+TitaniumWalls605|"i was wrong it didn't actually change"|minecraft
+Ancient Oak Tree|""|minecraft
+Ancient Oak Tree|""|minecraft
+TitaniumWalls605|"You seemed to be acting like water is supposed to flow downwards or something"|minecraft
+FlexSealed1711|"water doesnt flow. what?"|minecraft
+FlexSealed1711|"<:villager_huh:441951184886956033>"|minecraft
+Gerginator|"So whatever happened to the archaeology portion of the update?"|minecraft
+FlexSealed1711|"tbh im glad that stayed out"|minecraft
+FlexSealed1711|"<:NotVanilla:595214699667390465>"|minecraft
+Gerginator|"The new generation is cool, but I feel like [a] there are way too many water-filled caves, making finding one less special (and more annoying), and [b] there are too many cave intersections with bodies of water"|minecraft
+Gerginator|"Also glow squids..."|minecraft
+Gerginator|"Why?"|minecraft
+FlexSealed1711|"luckily one farm can cause the mass extermination of the 2 cringe new mobs since they have the same spawning mechanics - glowsquids and axolotls"|minecraft
+FlexSealed1711|"are ppl gonna play this weekend?"|minecraft
+TitaniumWalls605|"yes"|minecraft
+TitaniumWalls605|"i was pretty busy last weekend but this weekend no"|minecraft
+FlexSealed1711|"i haven't seen that much activity this week, but thats maybe because ive just been  no-lifing it and ppl are in college here"|minecraft
+FlexSealed1711|"my new school has given me a very light work load. most stuff is manageable the day its due. hence my status"|minecraft
+TitaniumWalls605|"due tomorrow, do tomorrow"|minecraft
+TitaniumWalls605|"exactly"|minecraft
+FlexSealed1711|"that was a quote i heard from one of the juniors at my old school"|minecraft
+FlexSealed1711|"very based"|minecraft
+TitaniumWalls605|"lol"|minecraft
+TitaniumWalls605|"the only big thing that we have right now is that we have a 55 point chemistry quiz for lab safety"|minecraft
+FlexSealed1711|"live dangerously"|minecraft
+TitaniumWalls605|"and we can't not get 100% because he will keep making us retake it until we get 100%"|minecraft
+TitaniumWalls605|"that way we start off with a free 100 and we know what to do in labs"|minecraft
+FlexSealed1711|"ive already done a few labs, one of which required burning stuff"|minecraft
+TitaniumWalls605|"nice"|minecraft
+Gerginator|"Same with me except we can't retake it"|minecraft
+ExoticLegos|"i have been using that since middle school and yes absolutely i have lived by it"|minecraft
+ExoticLegos|"also thats kinda smart ngl"|minecraft
+FlexSealed1711|"he makes sure you know safety before turning you loose with a bunsen burner"|minecraft
+ExoticLegos|"ye"|minecraft
+ExoticLegos|"gimme the burning boi"|minecraft
+Gerginator|"Just found a 67-vein of copperWhy does it spawn in such huge clumps"|minecraft
+ExoticLegos|"bro wut"|minecraft
+ExoticLegos|"thats nuts"|minecraft
+TitaniumWalls605|"it really is"|minecraft
+TitaniumWalls605|"but i just did it first try so it doesn't matter"|minecraft
+ExoticLegos|"easy peazy"|minecraft
+FlexSealed1711|"I wish copper had a technical use other than lighting rods."|minecraft
+FlexSealed1711|"I already built a lightning rod so I don't have to sleep every night to stop forest fires. All loaded lightning hits them."|minecraft
+FlexSealed1711|"It should be a smith villager trade like iron, but less valuable."|minecraft
+FlexSealed1711|"Its only use is building and it takes 9 to make 1 block. It needs to be common enough."|minecraft
+FlexSealed1711|"for anyone who hates the new ores, try this."|minecraft
+Ancient Oak Tree|"Personally, I like the new ores"|minecraft
+FlexSealed1711|"58 vein of coal"|minecraft
+FlexSealed1711|"the server should work now, the network issue causing the problem seemed to fix itself"|minecraft
+Ancient Oak Tree|""|minecraft
+FlexSealed1711|"time for mega stonks <:stonks:821160600272896020>"|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"added a sticker"|minecraft
+FlexSealed1711|""|minecraft
+TitaniumWalls605|""|minecraft
+FlexSealed1711|"selling snout banner patterns - 3 in stock. name your price if you want one"|minecraft
+FlexSealed1711|"money"|minecraft
+TitaniumWalls605|"1 dirt"|minecraft
+FlexSealed1711|"hrrr"|minecraft
+FlexSealed1711|"i guess i overtraded. despite being cured they want 4 iron again. i hate that mechanic."|minecraft
+asdfjklsemicolon|"f"|minecraft
+asdfjklsemicolon|"gotta do it again"|minecraft
+FlexSealed1711|"it will revert but that takes time"|minecraft
+FlexSealed1711|"thats why ive gotta get like 10 assorted smiths going at a time to convert every last iron ingot to an emerald as it rolls in"|minecraft
+FlexSealed1711|"4 seems to be close to adequate for now though"|minecraft
+asdfjklsemicolon|"I need some iron"|minecraft
+FlexSealed1711|"POV: you're a villager"|minecraft
+asdfjklsemicolon|"I'll pay at a rate of 1 emerald each"|minecraft
+asdfjklsemicolon|"actually nah"|minecraft
+asdfjklsemicolon|"that's too expensive in emeralds"|minecraft
+FlexSealed1711|"<:villager_huh:441951184886956033>"|minecraft
+asdfjklsemicolon|"I'll give an elytra for some amount of iron"|minecraft
+FlexSealed1711|"i have an elytra alr"|minecraft
+asdfjklsemicolon|"cringe"|minecraft
+asdfjklsemicolon|"I'll build my own iron farm then"|minecraft
+asdfjklsemicolon|"with blackjack and hookers"|minecraft
+asdfjklsemicolon|"I'm thinking at least 4-unit"|minecraft
+asdfjklsemicolon|"with a minecart zombie"|minecraft
+asdfjklsemicolon|"and nether portal killing chamber"|minecraft
+FlexSealed1711|"dont make me schematic over the iron farm on my singleplayer"|minecraft
+asdfjklsemicolon|"join tech mc archive"|minecraft
+asdfjklsemicolon|"they have a ton of cool designs"|minecraft
+FlexSealed1711|"<:Rigged:542644441585025024>"|minecraft
+TitaniumWalls605|"Yo if anyone is at spawn rn I just got lag killed by a group of zombies at spawn portal and my spawn is 6000 blocks away, so if anyone can get my stuff that would be cool"|minecraft
+FlexSealed1711|"couldnt find it"|minecraft
+ExoticLegos|"rip"|minecraft
+FlexSealed1711|"idk if spawn chunks would permaload items till they despawn but maybe im close enough to have done it in my many hours of active playtime today"|minecraft
+TitaniumWalls605|"It happened right before I sent the message"|minecraft
+FlexSealed1711|"ive been loading the area near spawn a lot"|minecraft
+TitaniumWalls605|"It might not have been the spawn portal, but a portal close to apawn"|minecraft
+FlexSealed1711|"what kind of stuff was it? maybe easily replaceable"|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"on a more unfortunate note, i do not tolerate those who refuse to buy iron"|minecraft
+FlexSealed1711|""|minecraft
+FlexSealed1711|"https://tenor.com/view/csgo-banging-table-angry-mad-rage-quit-gif-17478101"|minecraft
+FlexSealed1711|"had to kill 2 already"|minecraft
+FlexSealed1711|"thats 2 gaps and i dont have a gold farm"|minecraft
+FlexSealed1711|"gotta go clean out another bastion"|minecraft
+FlexSealed1711|"break the hoglin statues"|minecraft
+TitaniumWalls605|"everything was unenchanted so its easily replaceable"|minecraft
+Ancient Oak Tree|"<@&771187968869138442> New Minecraft server, if anyone is interested! https://discord.gg/rHynG3Nh"|minecraft
+Ancient Oak Tree|"We start on Saturday"|minecraft
+firez2469|"yes"|minecraft
