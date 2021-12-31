@@ -21,7 +21,11 @@ def __activate(weights, inputs):
     return activation
 
 def transfer(activation):
-    return 1.0/(1.0+math.exp(-activation))
+    try:
+        val = 1.0/(1.0+math.exp(-activation))
+    except OverflowError:
+        val = 1
+    return val
 
 # Forward propagate input to a network output
 def forward_propagate(network, row):
@@ -85,6 +89,8 @@ def predict(network,row):
     outputs = forward_propagate(network,row)
     return outputs.index(max(outputs))
 
+
+
 class NeuralNet:
     def __init__(self,n_inputs,n_hidden,n_outputs):
         self.network = initialize_network(n_inputs,n_hidden,n_outputs)
@@ -124,3 +130,15 @@ class NeuralNet:
 
 
 
+
+#additional Util functions
+
+#takes in a value, the min value, and max value and makes array from min to max all 0 except for expected output
+def convertToArrayData(value, min,max):
+    arr= []
+    for val in range(max-min):
+        v = val+min
+        if v == value:
+            arr.append(1)
+        else:
+            arr.append(0)
