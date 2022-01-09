@@ -1,4 +1,5 @@
 # StackNeuralNet
+Written By: Marco S. Hampel
 ### Description
 Basic Supervised Neural Network library on python.
 
