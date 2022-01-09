@@ -2,6 +2,7 @@
 ### Description
 Basic Supervised Neural Network library on python.
 
+
 ## NeuralNet class
 
 ### Constructor
@@ -16,12 +17,6 @@ Parameters:
 - Learning rate.
 - The number of iteration the network will learn off of.
 
-### fit2() Method
-Parameters:
-- training data in 2D Vector matrix. Each row being an input layer for every training sample.
-- Expected outputs for each input layer .
-- Learning rate.
-- The number of iteratins the network will learn off of.
 
 ### predict() Method
 Parameters: NONE
@@ -35,3 +30,7 @@ Parameters:
 
 ## Requriements
 - Python 3 <=
+
+**Note: The library currently is built to only support a binary 1 neuron output layer.**
+*The program is based on Jason Brownlee's "How to Code a Neural Network" article and I have expanded upon the python implementation of his code. If you want to 
+develop this library further I highly reccomend checking out his tutorial: [Link](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)*
