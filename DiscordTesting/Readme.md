@@ -16,9 +16,9 @@ Once the neural network is trained the data is tested with sample strings that c
 
 The Text File the conversation is loaded off of is of the given format:
     
-    Person1:Hello this is my text conversaation
-    Person2:TextConversation
-    Person3:What's up my guys? How's it going?
+    Person1|Hello this is my text conversaation
+    Person2|TextConversation
+    Person3|What's up my guys? How's it going?
     ...
     
- 
+ The author is the first field, split by the ```|``` followed by the message. ```\n``` or ```\r``` are used to parse each message
