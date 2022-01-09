@@ -22,3 +22,5 @@ The Text File the conversation is loaded off of is of the given format:
     ...
     
  The author is the first field, split by the ```|``` followed by the message. ```\n``` or ```\r``` are used to parse each message
+
+**WARNING: The file ```out.txt``` contains inapropriate language.**
